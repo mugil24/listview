@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by: Ann Blessy Philips
-Registeration Number : 212222040008
+Developed by: vaanmugil vs
+Registeration Number : 212221040174
 */
 ```
 
